@@ -236,3 +236,35 @@ font-size: 24px;
     font-weight: 800px;
     font-size: 32px;
 }
+.spform{
+    height: 60px;
+}
+.support{
+    background-image:  url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 900px;
+    margin-left: 200px;
+    color: #EBEBEB;
+
+}
+.support>div{
+    align-items: center;
+    justify-content: space-between;
+
+}
+footer{
+    margin: 20px 100px;
+}
+footer>div{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+footer>div>a{
+    margin-right: 15px;
+}
+footer>div>h4{
+    margin:30px 500px 30px 200px;
+}
