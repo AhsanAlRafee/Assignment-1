@@ -76,10 +76,10 @@ nav>ul>li{
     padding: 20px 20px;
     text-align: center;
 }
-.main-sec>h1
+.main-sec>h1{
     font-weight: 800px;
     font-size: 32px;
-   
+}
 
 
 .main-sec>p{
@@ -132,4 +132,24 @@ nav>ul>li{
 .btn-m{
     background-color: #FFFFFF;
     font-size: 12px;
+}
+.video>h1{
+    font-weight: 800px;
+    font-size: 32px;
+    padding: 10px 20px;
+}
+.video{
+    text-align: center;
+    margin: 30px 130px;
+}
+.video>p{
+    padding: 10px 180px;
+    margin-bottom: 20px;
+}
+.link{
+    width: 1000px;
+    height: 500px;
+}
+.target-lan {
+    display: flex;
 }
