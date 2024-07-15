@@ -136,7 +136,7 @@ nav>ul>li{
 .video>h1{
     font-weight: 800px;
     font-size: 32px;
-    padding: 10px 20px;
+    padding: 5px 20px;
 }
 .video{
     text-align: center;
@@ -145,11 +145,94 @@ nav>ul>li{
 .video>p{
     padding: 10px 180px;
     margin-bottom: 20px;
+
 }
 .link{
     width: 1000px;
     height: 500px;
 }
-.target-lan {
+.target-lan{
     display: flex;
+    text-align: left;
+}
+.all-target{
+    margin: 20px 160px;
+    padding: 20px;
+}
+.target>h1{
+    font-weight: 800px;
+    font-size: 32px;
+}
+.target>p{
+    margin-bottom: 50px;
+}
+.html{
+    margin-right: 20px;
+    padding: 5px 10px;
+    background-color: rgb(249, 246, 236);
+}
+.html>h1{
+    font-weight: 800px;
+    font-size: 24px;
+}
+
+.css{
+    margin-right: 20px;
+    padding: 5px 10px;
+    background-color: #EBEBEB;
+}
+.css>h1{
+    font-weight: 800px;
+    font-size: 24px;
+}
+
+.java{
+    margin-right: 20px;
+    padding: 5px 10px;
+    background-color:rgb(231, 222, 207);
+}
+.java>h1{
+    font-weight: 800px;
+    font-size: 24px;
+}
+.ntarget>div{
+    display: flex;
+    align-items: center;
+}
+.all-div{
+    text-align: left;
+}
+.all-div>h1{
+font-weight: 800px;
+font-size: 24px;
+}
+.node{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+}
+.node>.all-div{
+    margin-left: 30px;
+}
+
+.mongo{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+}
+.mongo>.all-div{
+    margin-left: 30px;
+}
+
+.react{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 20px;
+}
+.react>.all-div{
+    margin-left: 30px;
+}
+.all-ntarget>h1{
+    font-weight: 800px;
+    font-size: 32px;
 }
